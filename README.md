@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS, MySQL, HTML, and SCSS.<br>🌱 I’m currently learning about Big data technologies viz. PySpark,<br>      Hive, AWS, Cassandra, MongoDB, Kafka, Airflow.<br>🤝 I’m looking for help with getting into the big data domain.<br><br>
+🔭 I’m currently working on React JS, MySQL, HTML, and SCSS.<br>🌱 I’m currently learning about Big data technologies viz. PySpark, Hive, AWS, Cassandra, MongoDB, Kafka, Airflow.<br>🤝 I’m looking for help with getting into the big data domain.<br><br>
 
 
 ## 🌐 Socials:
